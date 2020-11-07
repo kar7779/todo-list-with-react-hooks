@@ -1,0 +1,41 @@
+* {
+  background-color: #1a1423;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #f2f4ff;
+  width: 70%;
+  height: 50vh;
+  margin: 0 auto;
+}
+input {
+  width: 60%;
+  border: 2px solid #c4c4c4;
+  background-color: #f2f4ff;
+  margin-bottom: 30px;
+}
+
+.green {
+  background-color: chartreuse;
+}
+.red {
+  background-color: red;
+}
+h4 {
+  color: black;
+  margin-right: 50px;
+  padding: 7px;
+  background-color: #f2f4ff;
+  border-radius: 30px;
+}
+.items {
+  margin: 0px auto;
+}
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+}
